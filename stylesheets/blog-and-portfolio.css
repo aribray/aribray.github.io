@@ -1,0 +1,28 @@
+h1 {
+  background-color: rgb(230, 150, 150);
+  padding: 20px;
+}
+
+.about-text p {
+  color: black;
+}
+
+#blog-entry {
+  padding-bottom: 30px;
+}
+
+.portfolio-content p {
+  padding: 2px;
+  padding-top: 10px;
+  color: forestgreen;
+  background: rgb(189, 185, 185);
+  padding-bottom: 20px;
+  text-shadow: 1px 1px 2px white ;
+}
+
+.portfolio-header {
+  margin: 10px 50px;
+  text-align: left;
+  background-color: rgb(230, 150, 150);
+  padding: 5px;
+}
